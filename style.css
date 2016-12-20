@@ -1,19 +1,22 @@
     header {
       text-align: center;
-      background: url("images/banner.jpg");
+      background: url("https://d3ui957tjb5bqd.cloudfront.net/uploads/2016/11/bouncy.gif");
+      background-position:center center ;
       background-size: cover;
       color: white;
+      font-family: 'Lobster Two', cursive;
     }
     .nav {
       color: white;
     }
     h1 {
       font-size: 70px;
+      font-family: 'Aref Ruqaa', serif;
     }
     img {
-      margin: 40px 0px 0px 0px;
+      margin: 0px 0px 0px 0px;
       border: 7px solid white;
-      border-radius: 20px;
+      border-radius: 60px;
     }
     ul {
       padding: 10px;
